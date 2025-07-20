@@ -1,4 +1,4 @@
-🎓 Task 2Completed – Research Internship @ CBIT
+🎓 Task 2 Completed – Research Internship @ CBIT
 
 📘 Certification on Python Fundamentals – Infosys Springboard
 As part of Task 2 for my Research Internship at Chaitanya Bharathi Institute of Technology (CBIT), I successfully completed a certified course titled "artificial intelligence and machine learning " on the Infosys Springboard platform.
