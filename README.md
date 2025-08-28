@@ -37,3 +37,7 @@ Task Summary
 
 ## Capstone Project 
 
+### Digital Triage Assistant
+Automatically extract and summarize symptoms from a handwritten note for use by front-desk nurses or emergency staff.
+
+This project uses computer vision and natural language processing to streamline medical triage. By digitizing and summarizing symptoms from handwritten notes, it helps healthcare workers quickly identify critical cases. Features
