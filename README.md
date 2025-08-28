@@ -25,3 +25,15 @@ Task Summary:
 
 ## Task-3
 
+Task Summary
+
+1.Internship Program : research internship at CBIT
+
+2.Task : 3
+
+3.Platform : Infosys Springboard
+
+4.Course Completed : Introduction to Deep Learning
+
+## Capstone Project 
+
